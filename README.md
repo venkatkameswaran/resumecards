@@ -1,6 +1,4 @@
-Unfortunately, this project is **no longer maintained**.
-
-I now have other priorities in my life and no longer have time to update this library. Email me at venkat.kameswaran@gmail.com if you'd like to reach me.
+Email me at venkat.kameswaran@gmail.com if you'd like to reach me.
 
 # :briefcase: ResumeCards :briefcase:
 
