@@ -237,7 +237,7 @@ a {
 
 .panel-body {
   height: 280px;
-  overflow: hidden;
+  overflow: scroll;
 }
 
 /* Navbar */
@@ -528,7 +528,7 @@ script + p {
 
   .panel-heading {
     height: 35px;
-    overflow: scroll;
+    overflow: hidden;
   }
 
   .panel-body {
