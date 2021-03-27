@@ -1,6 +1,6 @@
 Unfortunately, this project is **no longer maintained**.
 
-I now have other priorities in my life and no longer have time to update this library. Email me at elle.kasai@gmail.com if you'd like to reach me.
+I now have other priorities in my life and no longer have time to update this library. Email me at venkat.kameswaran@gmail.com if you'd like to reach me.
 
 # :briefcase: ResumeCards :briefcase:
 
@@ -8,7 +8,7 @@ ResumeCards is a Markdown based resume generator. It looks great on mobile/deskt
 
 ## :briefcase: Live Demo :briefcase:
 
-### [View Demo and Documentation](http://ellekasai.github.io/resumecards)
+### [View Demo and Documentation](http://venkatkameswarn.github.io/resumecards)
 
 ![](http://cl.ly/image/3O342N0b0y1h/sample_default.png)
 
@@ -20,7 +20,7 @@ You can save it as PDF too:
 
 **Note:** ResumeCards uses Jekyll. Please read [Jekyll's documentation](http://jekyllrb.com/) if you get stuck.
 
-[Fork this repo](http://github.com/ellekasai/resumecard/fork), clone it, and then run:
+[Fork this repo](http://github.com/venkatkameswaran/resumecard/fork), clone it, and then run:
 
 ```
 bundle install
@@ -101,12 +101,8 @@ To customize the color theme, edit the `color` section of `_data/resume.yml`.
 
 ## :briefcase: Author & License :briefcase:
 
-Elle Kasai
+Venkat Kameswaran
 
-- [Website](http://ellekasai.com/about)
-- [Twitter](http://twitter.com/ellekasai)
-
-[MIT License](http://ellekasai.mit-license.org).
 
 ## :briefcase: Special Thanks :briefcase:
 
