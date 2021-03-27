@@ -224,8 +224,8 @@ a {
 }
 
 .panel-heading {
-  height: 35px;
-  overflow: scroll;
+  height: 50px;
+  overflow: hidden;
 }
 
 .panel-title {
@@ -236,7 +236,7 @@ a {
 }
 
 .panel-body {
-  height: 280px;
+  height: 480px;
   overflow: scroll;
 }
 
