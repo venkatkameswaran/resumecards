@@ -225,7 +225,7 @@ a {
 
 .panel-heading {
   height: 35px;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 .panel-title {
@@ -237,7 +237,7 @@ a {
 
 .panel-body {
   height: 280px;
-  overflow: scroll;
+  overflow: hidden;
 }
 
 /* Navbar */
